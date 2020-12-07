@@ -1,0 +1,19 @@
+{
+  "name": "next-js-boilerplate",
+  "version": "1.0.0",
+  "description": "next js first app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": "https://github.com/adityarahmayadi/next-js-boilerplate.git",
+  "author": "adityarahmayadi",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
